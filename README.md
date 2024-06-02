@@ -1,3 +1,4 @@
+#Fake_News_Detection
 ## Overview
 The goal of this project is to classify news articles as fake or real using a machine learning model. The Passive Aggressive Classifier is trained on a dataset of news articles with corresponding labels.
 ## Dataset
